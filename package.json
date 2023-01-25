@@ -1,0 +1,1 @@
+{ "name": "0x49535350", "version": "1.0.0", "private": false, "dependencies": { "parcel-bundler": "^1.6.1" }, "scripts": {}, "devDependencies": {} }
