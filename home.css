@@ -52,6 +52,9 @@
   margin-right: var(--dl-space-space-fourunits);
   margin-bottom: var(--dl-space-space-twounits);
 }
+.home-text06 a{
+  text-decoration: underline;
+}
 .home-button2 {
   color: rgb(255, 255, 255);
   transition: 0.3s;
