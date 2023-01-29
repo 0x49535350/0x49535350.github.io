@@ -1,0 +1,118 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #000000;
+}
+.home-navlink {
+  display: contents;
+}
+.home-image {
+  width: auto;
+  margin-top: var(--dl-space-space-threeunits);
+  object-fit: cover;
+  margin-bottom: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.home-button {
+  color: rgb(255, 255, 255);
+  transition: 0.3s;
+  border-color: #ffffff;
+  margin-bottom: var(--dl-space-space-twounits);
+  background-color: transparent;
+}
+.home-button:hover {
+  color: #ff0000;
+  border-color: #ff0000;
+}
+.home-text01:hover {
+  color: #ff0000;
+  border-color: #ff0000;
+}
+.home-button1 {
+  color: rgb(255, 255, 255);
+  transition: 0.3s;
+  border-color: #ffffff;
+  margin-bottom: var(--dl-space-space-twounits);
+  background-color: transparent;
+}
+.home-button1:hover {
+  color: #ff0000;
+  border-color: #ff0000;
+}
+.home-text06 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: center;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.home-button2 {
+  color: rgb(255, 255, 255);
+  transition: 0.3s;
+  border-color: #ffffff;
+  margin-bottom: var(--dl-space-space-twounits);
+  background-color: transparent;
+}
+.home-button2:hover {
+  color: #ff0000;
+  border-color: #ff0000;
+}
+.home-text08 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: center;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.home-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.home-link {
+  display: contents;
+}
+.home-icon {
+  fill: #ffffff;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-oneandhalfunits);
+  text-decoration: none;
+}
+.home-icon:hover {
+  fill: #ff0000;
+}
+.home-link1 {
+  display: contents;
+}
+.home-icon2 {
+  fill: #ffffff;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  transition: 0.3s;
+  text-decoration: none;
+}
+.home-icon2:hover {
+  fill: #ff0000;
+}
+.home-text09 {
+  color: rgb(255, 255, 255);
+  margin-top: var(--dl-space-space-threeunits);
+}
+#aboutmeid{
+  display: none;
+}
+#coursesshowid{
+  display: none;
+}
